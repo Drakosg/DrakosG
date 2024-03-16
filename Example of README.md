@@ -1,4 +1,6 @@
 ### Hi there 👋
+**Georgios Drakos**
+*I2011-c1-u4*
 
 <!--
 **Drakosg/DrakosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
