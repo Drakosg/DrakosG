@@ -1,8 +1,8 @@
 ### Hi there 👋
-##Created by:## 
+##Created by:
 **Georgios Drakos**
-##Created for## 
-###Data Analyst Class### 
+##Created for 
+###Data Analyst Class
 *(I2011-c1-u4)*
 
 <!--
